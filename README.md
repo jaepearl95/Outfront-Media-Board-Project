@@ -1,2 +1,3 @@
-# Outfront-Media-Board-Project
-Stress test and implementation of technical capability of Outfront Media subway boards
+# Web-Underground-Time
+ 
+Abstraction of Time installation for Parsons MFA Design and Technology class "Web Underground"
